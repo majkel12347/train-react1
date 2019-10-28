@@ -9,3 +9,9 @@
   color: white;
 }
 
+.monstersH1 {
+  font-family: "Modak", cursive;
+  color: #456;
+  text-shadow: 3px -4px 8px rgba(255, 253, 129, 0.938);
+  letter-spacing: 2px;
+}
